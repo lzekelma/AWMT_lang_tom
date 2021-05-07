@@ -7,17 +7,22 @@ Figure 1 - Histogram of TPVT and PERT Scores
 this figure was created using code from paper_stats file. lines 51-56.
 
 Figure 2 - 20 WM Association Tracts
-this figure was created using code from 
+the tracts were colored using create_mrml_based_excel_colors.py and visualized using slicer
  
 Table 1 - Summary of Regression Models
 age_gen.R was used to create each model. the data produced from this code was saved in the uncorrected.xlsx. the uncorrected csv is then used as input frd_correction.R which outputs corrected.xlsx. 
 
 Figure 3 - Visualizations by p-value and beta
+p-values and beta values from table 1 were used to create this visualization.  the p-values were visualized using create_mrml_based_excel_fdr.py and create_mrml_based_excel_betas. 
 
 Figure 4 - Effect Plots
+effect plots are generated towards the end of the age_gen.R
 
 Supplementary Figure 1 - Handedness Histogram
+this figure is generated in paper_stats, line 48
 
 Supplementary Figure 2 - Superior and Anterior Views
+this figure was visualized in Slicer. the mrml files are the same as those used in figure 2.
 
 Supplementary Figure 3 - Laterality Indices
+laterality_indices_plots.R was used to create this figure.
