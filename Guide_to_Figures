@@ -10,7 +10,7 @@ Figure 2 - 20 WM Association Tracts
 this figure was created using code from 
  
 Table 1 - Summary of Regression Models
-
+age_gen.R was used to create each model. the data produced from this code was saved in the uncorrected.xlsx. the uncorrected csv is then used as input frd_correction.R which outputs corrected.xlsx. 
 
 Figure 3 - Visualizations by p-value and beta
 
