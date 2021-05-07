@@ -1,1 +1,23 @@
 # AWMT_lang_tom
+
+This repository contains the code to create figures for the paper "White Matter Association Tracts Underlying Language and Theory of Mind: 
+An investigation of 809 Brains from the Human Connectome Project".
+
+Figure 1 - Histogram of TPVT and PERT Scores
+this figure was created using code from paper_stats file. lines 51-56.
+
+Figure 2 - 20 WM Association Tracts
+this figure was created using code from 
+ 
+Table 1 - Summary of Regression Models
+
+
+Figure 3 - Visualizations by p-value and beta
+
+Figure 4 - Effect Plots
+
+Supplementary Figure 1 - Handedness Histogram
+
+Supplementary Figure 2 - Superior and Anterior Views
+
+Supplementary Figure 3 - Laterality Indices
